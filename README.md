@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Minh Cong 👨‍💻</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">A passionate developer from Vietnam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vu-minh-cong" alt="vu-minh-cong" /></p>
+  
+- ✍ I graduated [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST) on 5/5/2023.
+- 🌱 I’m currently learning Japanese, English and other IT skills.
 
-<!--
-**vu-minh-cong/vu-minh-cong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+<p align="center">
+  <a href="https://www.facebook.com/MinhCong999" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/VuMinhCong" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UC26GaJgemjigcgVqkvYAwbA" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="minhcong.vu99@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> -->
+  <img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+</p>
+
+<p align="center">
+  <img alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+</p>
+
+
