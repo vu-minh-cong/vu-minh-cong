@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Minh Cong 👨‍💻</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vu-minh-cong" alt="vu-minh-cong" /></p>
   
 - ✍ I graduated [Hanoi University of Science and Technology](https://soict.hust.edu.vn) (HUST) on 5/5/2023.
